@@ -10,7 +10,7 @@ cString是一个使用c实现string结构体和相关操作函数的项目。开
 
 使用
 ---
-1. 导入.h文件（.\src\cString\c_string.h或Release）
+1. 导入.h文件（.\src\cString\c_string.h或[Release](https://github.com/Haceau-Zoac/cString/releases/tag/v1.0.0)）
 2. 尽情使用吧~
 
 待办清单
